@@ -1,0 +1,23 @@
+{
+  "name": "kviwer",
+  "version": "0.0.1",
+  "description": "Key-Value Database Viewer",
+  "main": "webui/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Revolution1/kviwer.git"
+  },
+  "keywords": [
+    "kv",
+    "etcd",
+    "tool",
+    "viewer"
+  ],
+  "author": "Cai Renjie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Revolution1/kviwer/issues"
+  },
+  "homepage": "https://github.com/Revolution1/kviwer#readme"
+}

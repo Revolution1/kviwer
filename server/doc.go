@@ -1,0 +1,6 @@
+/*
+static - bindata
+
+*/
+
+package main
